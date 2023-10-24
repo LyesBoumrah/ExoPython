@@ -1,4 +1,4 @@
-def informations():
+def saisir_informations():
     nom = input("Entrez votre nom: ").upper()
     prenom = input("Entrez votre prenom: ")
     age = int(input("Entrez votre âge: "))
